@@ -1,0 +1,29 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.ipynb_checkpoints/
+# Credentials and generated state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+slot*.json
+# Dependencies / IDE / Unity
+node_modules/
+.dart_tool/
+build/
+Library/
+Temp/
+Logs/
+UserSettings/
+.vs/
+.idea/
+# Large training artifacts
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
