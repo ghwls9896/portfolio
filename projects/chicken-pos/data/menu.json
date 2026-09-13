@@ -1,0 +1,11 @@
+[
+  {
+    "id": "fried",
+    "name": "후라이드 치킨",
+    "price": 18000,
+    "category": "치킨",
+    "ingredient_usage": {
+      "닭": 1
+    }
+  }
+]

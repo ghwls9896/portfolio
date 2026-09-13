@@ -1,0 +1,8 @@
+[
+  {
+    "name": "닭",
+    "unit": "마리",
+    "stock": 20,
+    "reorder_level": 3
+  }
+]
